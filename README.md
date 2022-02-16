@@ -23,8 +23,10 @@ terraform plan
 ##### 4. Apply planned changes
 
 ```
-terraform apply -auto-approve
+terraform apply
 ```
+
+# An exciting tool for your terraform plan!
 
 # tfarbe
 
